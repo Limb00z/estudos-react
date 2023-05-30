@@ -4,5 +4,10 @@
   "main": "index.js",
   "repository": "https://github.com/Limb00z/estudos-react.git",
   "author": "Ruan Reis <ruancosme23@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.21.5",
+    "@babel/core": "^7.22.1",
+    "@babel/preset-env": "^7.22.4"
+  }
 }
